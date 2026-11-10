@@ -1,0 +1,14 @@
+{
+  "name": "Smokey.SaltFT.Editor",
+  "rootNamespace": "Smokey.SaltFT",
+  "references": [ "Smokey.SaltFT.Runtime", "nadena.dev.ndmf", "VRC.SDKBase" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [ "System.Collections.Immutable.dll", "VRCSDKBase.dll", "VRCSDK3A.dll" ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

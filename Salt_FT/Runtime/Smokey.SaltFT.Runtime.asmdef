@@ -1,0 +1,14 @@
+{
+  "name": "Smokey.SaltFT.Runtime",
+  "rootNamespace": "Smokey.SaltFT",
+  "references": [ "VRC.SDKBase" ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
